@@ -1,9 +1,9 @@
 {
   "chainId": 101,
-  "address": 656cmQ68SqRs7YF8xfGxeCtSgvawFYRu8kEkqmxJuEaM,
+  "address": "656cmQ68SqRs7YF8xfGxeCtSgvawFYRu8kEkqmxJuEaM",
   "symbol": "BSJ",
   "name": "PURGE",
   "decimals": 12,
-  "logoURI": https://imgur.com/a/BIN9Lr3,
+  "logoURI": "https://imgur.com/a/BIN9Lr3",
   "tags": ["utility-token"]
 }
